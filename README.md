@@ -18,6 +18,6 @@
 ### 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucia-oliva&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucia-oliva&layout=compact&theme=github_dark" />
 </p>
