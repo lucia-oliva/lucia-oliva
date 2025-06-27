@@ -2,7 +2,7 @@
 <h3 align="center">Desarrolladora full-stack JR, Analista en Sistemas y estudiante de Licenciatura en Sistemas</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desarrolladora+Web;Apasionada+por+la+tecnolog%C3%ADa;Estudiante+de+Sistemas+y+Derecho" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desarrolladora+Web;Apasionada+por+la+tecnolog%C3%ADa;Estudiante+de+Sistemas" alt="Typing SVG" />
 </p>
 
 - 🔭 Actualmente trabajando en [Digesto UNLaR](https://digesto.unlar.edu.ar)
