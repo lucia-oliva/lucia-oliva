@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Lucia Oliva</h1>
+<h1 align="center">Lucia Oliva</h1>
 <h3 align="center">Desarrolladora full-stack JR, Analista en Sistemas y estudiante de Licenciatura en Sistemas</h3>
 
 <p align="center">
