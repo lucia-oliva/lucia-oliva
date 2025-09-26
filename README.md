@@ -21,3 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lucia-oliva&show_icons=true&theme=github_dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucia-oliva&layout=compact&theme=github_dark" />
 </p>
+
+### Learning Progress
+[![roadmap.sh](https://roadmap.sh/card/wide/664ad5e3bc68b74d9be8644a?variant=light&roadmaps=full-stack%2Cqa%2Ccyber-security)](https://roadmap.sh)
