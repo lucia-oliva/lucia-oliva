@@ -11,7 +11,7 @@
 ### 🛠️ Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,html,css,tailwind,docker" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,html,css,tailwind,docker,playwright" />
 </p>
 
 ### 📈 Stats
