@@ -11,14 +11,8 @@
 ### 🛠️ Tecnologías
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,html,css,tailwind,docker,playwright" />
-</p>
-
-### 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucia-oliva&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucia-oliva&layout=compact&theme=github_dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,html,css,tailwind,docker" />
+  https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png  
 </p>
 
 ### Learning Progress
