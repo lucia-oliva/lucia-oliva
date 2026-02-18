@@ -12,7 +12,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mysql,html,css,tailwind,docker" />
-  https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png  
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" style="height: 55px;"/>
 </p>
 
 ### Learning Progress
