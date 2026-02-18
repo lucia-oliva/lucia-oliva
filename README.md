@@ -6,8 +6,7 @@
 </p>
 
 - 🔭 Actualmente trabajando en [Digesto UNLaR](https://digesto.unlar.edu.ar)
-- 🌱 Aprendiendo React, Node.js, Testing manual y automatizado
-- ⚡ Fun fact: Soy fan del café 
+- 🌱 Aprendiendo React, Node.js, Testing manual y automatizado 
 
 ### 🛠️ Tecnologías
 
